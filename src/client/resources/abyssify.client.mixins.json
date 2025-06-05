@@ -3,7 +3,7 @@
 	"package": "vesper.abyssify.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
-		"ExampleClientMixin"
+      "vesper.abyssify.mixin.ExampleClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
