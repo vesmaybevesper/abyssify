@@ -1,4 +1,4 @@
-package vesper.abyssify.mixin.EffectiveWakes;
+package vesper.vcc.mixin.EffectiveWakes;
 
 
 import com.goby56.wakes.utils.WakesUtils;
