@@ -3,5 +3,8 @@ package vesper.vcc;
 import eu.midnightdust.lib.config.MidnightConfig;
 
 public class Config extends MidnightConfig {
-        @Entry public static boolean EffectiveXWakes = true;
+        public static final String EFFECTIVEWAKES = "Effective x Wakes";
+
+        @Entry(category = EFFECTIVEWAKES) public static boolean EffectiveXWakes = true;
+        @Entry(category = EFFECTIVEWAKES) public static boolean oarSplash = true;
 }
