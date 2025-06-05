@@ -1,8 +1,9 @@
 {
   "required": true,
-  "package": "vesper.abyssify.mixin",
+  "package": "vesper.vcc.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "EffectiveWakes.WakeRenderAccessor",
     "EffectiveWakes.WakesUtilMixin",
     "mythic_mounts.FlyingMountEntityMixin"
   ],

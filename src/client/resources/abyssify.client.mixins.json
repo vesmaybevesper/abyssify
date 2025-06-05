@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "vesper.abyssify.mixin.client",
+	"package": "vesper.vcc.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
       "vesper.abyssify.mixin.ExampleClientMixin"

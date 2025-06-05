@@ -1,33 +1,33 @@
 {
 	"schemaVersion": 1,
-	"accessWidener": "abyssify.accesswidener",
-	"id": "abyssify",
+	"accessWidener": "vcc.accesswidener",
+	"id": "vcc",
 	"version": "${version}",
-	"name": "Abyssify",
-	"description": "Core mod for Across the Abyss",
+	"name": "Vesper's Compatibility Compendium",
+	"description": "Various mod integrations, fixes and tweaks",
 	"authors": [
 		"VesMaybeVesper"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/vesmaybevesper/Vespers-Compatibility-Compendium"
 	},
 	"license": "LGPL-3.0",
 	"icon": "assets/abyssify/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"vesper.abyssify.Abyssify"
+			"vesper.vcc.VCC"
 		],
 		"client": [
-			"vesper.abyssify.AbyssifyClient"
+			"vesper.vcc.VCCClient"
 		],
 		"fabric-datagen": [
-			"vesper.abyssify.AbyssifyDataGenerator"
+			"vesper.vcc.VCCDataGenerator"
 		]
 	},
 	"mixins": [
-		"abyssify.mixins.json"
+		"vcc.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.14",

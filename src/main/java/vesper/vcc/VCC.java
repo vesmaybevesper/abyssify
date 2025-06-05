@@ -1,12 +1,12 @@
-package vesper.abyssify;
+package vesper.vcc;
 
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class Abyssify implements ModInitializer {
-	public static final String MOD_ID = "abyssify";
+public class VCC implements ModInitializer {
+	public static final String MOD_ID = "vcc";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.
@@ -19,6 +19,6 @@ public class Abyssify implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Abyssify is loaded");
+		LOGGER.info("vcc is loaded");
 	}
 }
