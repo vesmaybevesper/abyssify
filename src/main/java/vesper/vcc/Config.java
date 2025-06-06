@@ -7,4 +7,5 @@ public class Config extends MidnightConfig {
 
         @Entry(category = EFFECTIVEWAKES) public static boolean EffectiveXWakes = true;
         @Entry(category = EFFECTIVEWAKES) public static boolean oarSplash = true;
+        @Entry(category = EFFECTIVEWAKES) public static boolean WakeRenderMixin = true;
 }

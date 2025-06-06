@@ -1,3 +1,9 @@
 {
-  "vcc.midnightconfig.title": "Vesper's Compatibility Compendium"
+  "vcc.midnightconfig.title": "Vesper's Compatibility Compendium",
+  "vcc.midnightconfig.EffectiveXWakes": "Effective & Wakes Compat",
+  "vcc.midnightconfig.EffectiveXWakes.tooltip": "Toggles all Effective x Wakes compat features",
+  "vcc.midnightconfig.oarSplash": "Oar Splash",
+  "vcc.midnightconfig.oarSplash.tooltip": "Toggles Effective particles for oar splash",
+  "vcc.midnightconfig.WakeRenderMixin": "Glowing Wakes particles",
+  "vcc.midnightconfig.WakeRenderMixin.tooltip": "Attempts to mimic Effective's plankton glow for some Wakes particles"
 }
