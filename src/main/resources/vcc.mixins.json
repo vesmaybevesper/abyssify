@@ -6,9 +6,14 @@
     "EffectiveWakes.WakeRenderAccessor",
     "EffectiveWakes.WakeRendererMixin",
     "EffectiveWakes.WakesUtilMixin",
-    "mythic_mounts.FlyingMountEntityMixin"
+    "effectualEffective.WaterDripEffectMixin"
   ],
   "injectors": {
     "defaultRequire": 1
-  }
+  },
+  "client": [
+    "effectualEffective.BubbleBreathEffectMixin",
+    "effectualEffective.EffectualBubblesMixin",
+    "effectualEffective.PotBubblesMixin"
+  ]
 }

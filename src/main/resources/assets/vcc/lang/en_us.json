@@ -5,5 +5,13 @@
   "vcc.midnightconfig.oarSplash": "Oar Splash",
   "vcc.midnightconfig.oarSplash.tooltip": "Toggles Effective particles for oar splash",
   "vcc.midnightconfig.WakeRenderMixin": "Glowing Wakes particles",
-  "vcc.midnightconfig.WakeRenderMixin.tooltip": "Attempts to mimic Effective's plankton glow for some Wakes particles"
+  "vcc.midnightconfig.WakeRenderMixin.tooltip": "Attempts to mimic Effective's plankton glow for some Wakes particles",
+  "vcc.midnightconfig.EffectiveXEffectual": "Effective & Effectual Compat",
+  "vcc.midnightconfig.EffectiveXEffectual.tooltip": "Toggles all Effective x Effectual compat features",
+  "vcc.midnightconfig.useEffectiveBubbleChest": "Chest Bubbles",
+  "vcc.midnightconfig.useEffectiveBubbleChest.tooltip": "Use Effective bubbles for Effectual's chest bubble effect",
+  "vcc.midnightconfig.useEffectiveBubblePot": "Pot Bubbles",
+  "vcc.midnightconfig.useEffectiveBubblePot.tooltip": "Use Effective bubbles for Effectual's pot bubble effect",
+  "vcc.midnightconfig.useEffectiveDroplet": "Water Droplet",
+  "vcc.midnightconfig.useEffectiveDroplet.tooltip": "Use Effective droplet for Effectual's player water drip effect"
 }

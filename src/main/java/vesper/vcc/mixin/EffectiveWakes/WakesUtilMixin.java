@@ -9,6 +9,7 @@ import net.minecraft.particle.ParticleEffect;
 import net.minecraft.util.math.Vec3d;
 import net.minecraft.util.math.random.Random;
 import net.minecraft.world.World;
+import org.ladysnake.effective.core.EffectiveConfig;
 import org.ladysnake.effective.core.utils.EffectiveUtils;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
